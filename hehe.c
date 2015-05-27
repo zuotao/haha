@@ -1,8 +1,3 @@
-it is first file append somesthing
-<<<<<<< HEAD
+System.out.println("******");
+system.out.prinln("#############");
 
-
-my  is five
-=======
-my is seculjkj
->>>>>>> brh
